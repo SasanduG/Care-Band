@@ -1,9 +1,10 @@
 # 🧠 Wearable Safety Device for Dementia Patients
 
 An affordable, IoT-based **smartwatch system** designed to improve the safety and well-being of **dementia patients** by providing **real-time location tracking**, **fall detection**, and **caregiver alerts** via GSM. Developed by Team InnovaTech at the University of Moratuwa.
-
-<img src="final_product/final1.jpg" alt="My Photo" width="200"/>
-<img src="final_product/final2.jpg" alt="My Photo" width="200"/>
+<p align="center">
+  <img src="final_product/final1.jpg" alt="My Photo 1" width="200"/>
+  <img src="final_product/final2.jpg" alt="My Photo 2" width="200"/>
+</p>
 
 ---
 
